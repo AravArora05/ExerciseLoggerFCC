@@ -8,7 +8,7 @@ In this project, I built a microservice that allows users to create a user profi
 
 ## Project Link
 
-Instructions for building your project can be found at [FreeCodeCamp - Exercise Tracker](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/exercise-tracker)
+Instructions for building the project can be found at [FreeCodeCamp - Exercise Tracker](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/exercise-tracker)
 
 ## What I Learned
 
